@@ -1,19 +1,17 @@
 {
-  "name": "superpowers-dev",
-  "description": "Development marketplace for Superpowers core skills library",
+  "name": "superpowers-lite",
+  "description": "Superpowers without writing-skills (5.5k token savings)",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "jperson9920"
   },
   "plugins": [
     {
-      "name": "superpowers",
-      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
+      "name": "superpowers-lite",
+      "description": "Superpowers without writing-skills - core skills for Claude Code",
       "version": "4.0.3",
       "source": "./",
       "author": {
-        "name": "Jesse Vincent",
-        "email": "jesse@fsck.com"
+        "name": "jperson9920"
       }
     }
   ]
